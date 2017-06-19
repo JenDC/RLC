@@ -1,4 +1,3 @@
-# RLC
 <!Doctype html>
 <html lang="en">
 <link rel="stylesheet" type="css/text" href="MattsWebsite.css"/>
@@ -53,7 +52,7 @@
 					
 					</nav>
 					<div>
-					<img width="100%" height="600" src="https://images.newrepublic.com/af998be4fcb8a967f3286fbf8605e268c24660e6.jpeg?w=1000&q=65&dpi=1&fm=pjpg&h=414" alt="Sunset">
+					<img width="100%" height="600" src="https://images.newrepublic.com/af998be4fcb8a967f3286fbf8605e268c24660e6.jpeg?w=1000&q=65&dpi=1&fm=pjpg&h=414" alt="Sunset" class="image-responsive">
 					</div>
 					<br></br>
 					<div class="container jumbotron left">
@@ -72,13 +71,13 @@
 					</div>
 					<br></br>
 					<div class="container jumbotron left">
-					<div align="center" class="row">
-					<div class="col-md-4"><h2>Bulls</h2>
+					<h2>Bulls</h2>
 					<p>The Bulls operating segment involves the purchase of full and partial ownership interests in bulls, and the subsequent lease or sale of acquired bulls to semen distribution companies (“Distribution Companies”) and private ranchers. The Company aims to provide Distribution Companies with a reliable source of bulls whose semen can be marketed in sire catalogues and sold to ranchers. The Company enters lease and contract agreements with Distribution Companies, whereby the Distribution Company takes physical possession of the bull, covers most care and maintenance expenses, and markets the bull to ranchers through sire catalogues and online, among other mediums. The Distribution Company retains the majority of sale proceeds in return for providing these services. Prominent Distribution Companies include Genex Cooperative, ABS, Select Sires, and Accelerated Genetics. In addition to arrangements with Distribution Companies, the Company seeks opportunities to lease its bulls to ranchers for use within their own herds, to sell its bulls to third-party buyers, and to enter agreements that confer partial ownership and/or possessory rights to third-parties.
 
 					The Company receives revenues in the form of commissions or royalties on each unit of bull semen sold, and from the sale of certificates verifying the heredity of offspring sired by the bull. The Company treats these revenues as royalty income for accounting purposes. With respect to lease and contract agreements with ranchers, the Company generally receives a lump-sum rather than royalty-based payments, with revenue treated as rental or lease income for accounting purposes. Company bulls are held by the Company as investment assets, and are depreciated on a 5-year schedule.</p>
-					</div>
-					<div class="col-md-4"><h2>Cows</h2>
+					
+					<div>
+					<h2>Cows</h2>
 					<p>The Cows operating segment involves the purchase and sale of ownership interests in female breeding cattle and their offspring. The Cows operating segment is divided into two sub-segments of Purebred Cows and Commercial Cows, described below. Cows and their offspring are held by the Company as inventory assets –because they typically are acquired for the purpose of resale in the ordinary course of the Company’s business activities. As is the case with the acquisition of bulls, the Company may acquire partial ownership interests in cows by jointly purchasing them along with third-parties.
 
 					Where the purchase of ownership interests in bulls offers greater profit potential, cows often can be acquired at a lower cost and generally present a lower risk of loss than their male counterparts. With the rebuilding of U.S. beef herd underway, the Company has a well-stocked inventory it can use to capitalize on opportunities in both Cows sub-segments.   
@@ -89,8 +88,9 @@
 					<p><strong>c. Commercial Cows</strong>
 					The Company expanded the scope of its operations in the Cows segment to include commercial (beef-producing) cattle with its May 2014 purchase of an ownership interest in 48 commercial cow-calf pairs. The Managers decided to categorize these cows as items in a new Commercial Cows sub-segment of the Cows operating segment, because different strategies are employed to maximize the value of these assets as compared to cattle in the Purebred Cows sub-segment, because they reside in different locations, and because the sub-segments often have different types of expenses.</p>
 
-					</div>
-					<div class="col-md-4"><h2>Embryos</h2>
+					
+					<div>
+					<h2>Embryos</h2>
 					<p>The Company’s third operating segment is Embryos. Activities in this segment include implanting egg embryos into recipient females and selling the resulting embryo calves, and flushing eggs from Company-owned females. The Managers also regularly evaluate opportunities to acquire embryos from outside sources, or to sell embryos or the right to flush eggs from Company-owned females. Items in the Embryos operating segment are held by the Company as inventory assets, because they are sold in the course of the Company’s regular business activities.</p>
 					</div>
 					</div>
@@ -109,4 +109,35 @@
 					</div>
 
 					</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
